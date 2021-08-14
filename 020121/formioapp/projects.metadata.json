@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"formioapp.projects"},{"v":2,"key":{"name":1},"name":"name_1","ns":"formioapp.projects"},{"v":2,"key":{"access.id":1},"name":"access.id_1","ns":"formioapp.projects"},{"v":2,"key":{"owner":1},"name":"owner_1","ns":"formioapp.projects"}],"uuid":"a09b0082150349f8b658ef710b1f7b45"}
